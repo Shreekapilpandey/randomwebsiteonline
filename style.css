@@ -1,0 +1,42 @@
+
+ body{
+    margin: 30px;
+        }
+ #heading{
+    font-family: Arial, Helvetica, sans-serif;
+    background-image: url(Gallery/pattern.jpeg);
+    font-size: 100px;
+    color: khaki;
+    font-weight: bold;
+    text-align: center;
+    margin:30px;
+}
+.content h4.green{
+    background-color: mediumspringgreen;
+    color: white;
+    width:100%;
+    font-weight:bold;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+
+
+}
+.content h4.brown{
+    background-color: lightcoral;
+    color: white;
+    width:100%;
+    font-weight:bold;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content h4.blue{
+    background-color: skyblue;
+    color: white;
+    width:100%;
+    font-weight:bold;
+    font-size: 32px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#blue{
+    color: blue;
+}
